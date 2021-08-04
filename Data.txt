@@ -1,0 +1,3 @@
+https://educ8s.tv/arduino-mp3-player/
+
+** Fix upload arduino in linux : sudo usermod -a -G dialout niboon_b
